@@ -17,10 +17,10 @@ Mission 3 : 3-1 => 동영 / 3-2 => 중간고사 이후
 ### 1st mentoring (10/12 9:00) (v)      
 1차 멘토링 진행   
 
-### 2rd meeting (10/17 17:00) (ing)  
+### 2rd meeting (10/17 17:00) (v)  
 장소 : 비대면 + 백년관 스터디룸 8호실         
 
-### 2rd mentoring (10/19 9:00)      
+### 2rd mentoring (10/19 9:00) (ing)      
 2차 멘토링 진행   
 
 ### 3nd mentoring (10/19 10:00)      
