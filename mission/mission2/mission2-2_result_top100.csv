@@ -1,0 +1,101 @@
+﻿응답자 ID,train 선호,train 비선호,valid 선호,valid 비선호
+52002,W_24111_70_hippie_M.jpg,"T_00004_90_hiphop_M.jpg, T_03007_10_sportivecasual_M.jpg, T_03118_19_normcore_M.jpg, W_02699_60_mods_M.jpg, W_23983_60_mods_M.jpg",,
+66699,"T_00004_90_hiphop_M.jpg, T_01568_50_ivy_M.jpg, T_15877_10_sportivecasual_M.jpg, T_16259_10_sportivecasual_M.jpg, W_00901_60_mods_M.jpg","T_03643_00_metrosexual_M.jpg, T_06009_10_sportivecasual_M.jpg, W_15364_00_metrosexual_M.jpg, W_24031_60_mods_M.jpg",,
+66797,"T_01259_10_sportivecasual_M.jpg, T_16092_10_sportivecasual_M.jpg, T_16332_10_sportivecasual_M.jpg, W_23958_60_mods_M.jpg, W_24020_60_mods_M.jpg","T_00004_90_hiphop_M.jpg, W_15467_70_hippie_M.jpg, W_24865_60_mods_M.jpg, W_49510_00_metrosexual_M.jpg","T_08486_10_sportivecasual_M.jpg, W_23958_60_mods_M.jpg",
+66684,"T_00047_19_normcore_M.jpg, T_03699_90_hiphop_M.jpg, W_02673_60_mods_M.jpg, W_32443_70_hippie_M.jpg","T_00007_19_normcore_M.jpg, W_51917_00_metrosexual_M.jpg",W_15341_60_mods_M.jpg,
+66817,"T_00012_19_normcore_M.jpg, T_04506_90_hiphop_M.jpg","T_03624_90_hiphop_M.jpg, T_04522_90_hiphop_M.jpg, W_16694_00_metrosexual_M.jpg",,W_17135_00_metrosexual_M.jpg
+41660,"T_00023_10_sportivecasual_M.jpg, W_15257_00_metrosexual_M.jpg","W_24605_80_bold_M.jpg, W_29178_90_hiphop_M.jpg, W_32797_90_hiphop_M.jpg",,
+67218,"T_00023_10_sportivecasual_M.jpg, T_02681_19_normcore_M.jpg, T_16347_10_sportivecasual_M.jpg","T_04487_90_hiphop_M.jpg, T_15623_80_bold_M.jpg",T_16233_10_sportivecasual_M.jpg,
+66545,"T_00026_19_normcore_M.jpg, T_02919_80_bold_M.jpg, T_06091_60_mods_M.jpg","T_03510_90_hiphop_M.jpg, T_04031_10_sportivecasual_M.jpg, T_06102_00_metrosexual_M.jpg, T_07561_10_sportivecasual_M.jpg, W_23905_60_mods_M.jpg, W_24717_60_mods_M.jpg",,"T_04031_10_sportivecasual_M.jpg, W_24717_60_mods_M.jpg"
+67006,"T_00032_19_normcore_M.jpg, W_15270_60_mods_M.jpg","T_03556_60_mods_M.jpg, W_00489_60_mods_M.jpg",W_15270_60_mods_M.jpg,
+25042,"T_04539_90_hiphop_M.jpg, T_06015_60_mods_M.jpg, T_08477_80_bold_M.jpg","T_00033_19_normcore_M.jpg, T_00194_90_hiphop_M.jpg, W_26453_70_hippie_M.jpg, W_33002_60_mods_M.jpg",,W_33002_60_mods_M.jpg
+66486,,"T_00034_19_normcore_M.jpg, T_06439_10_sportivecasual_M.jpg, W_00474_60_mods_M.jpg, W_15389_60_mods_M.jpg, W_28177_70_hippie_M.jpg",,T_08717_10_sportivecasual_M.jpg
+66783,"T_00036_19_normcore_M.jpg, T_08444_10_sportivecasual_M.jpg","T_01480_50_ivy_M.jpg, T_02073_19_normcore_M.jpg, T_15895_10_sportivecasual_M.jpg, T_16439_10_sportivecasual_M.jpg, W_00105_00_metrosexual_M.jpg",,W_25163_90_hiphop_M.jpg
+66419,"T_02140_19_normcore_M.jpg, T_02193_19_normcore_M.jpg, W_06534_60_mods_M.jpg","T_00038_19_normcore_M.jpg, T_01205_60_mods_M.jpg, T_08765_10_sportivecasual_M.jpg, T_16702_80_bold_M.jpg, W_15871_60_mods_M.jpg",,
+559,"T_00041_90_hiphop_M.jpg, T_06438_60_mods_M.jpg, T_15461_10_sportivecasual_M.jpg","T_02936_19_normcore_M.jpg, T_03767_90_hiphop_M.jpg, T_04837_00_metrosexual_M.jpg, W_02927_60_mods_M.jpg, W_51973_70_hippie_M.jpg",,W_05876_70_hippie_M.jpg
+2065,"T_00041_90_hiphop_M.jpg, T_03580_19_normcore_M.jpg, T_06617_10_sportivecasual_M.jpg, T_16089_10_sportivecasual_M.jpg, W_06531_60_mods_M.jpg, W_09771_60_mods_M.jpg, W_15283_60_mods_M.jpg","T_03573_80_bold_M.jpg, W_31790_00_metrosexual_M.jpg",W_06531_60_mods_M.jpg,W_31790_00_metrosexual_M.jpg
+66939,,"T_00041_90_hiphop_M.jpg, T_03112_19_normcore_M.jpg, T_04541_90_hiphop_M.jpg, T_15848_80_bold_M.jpg",,
+21210,T_00056_10_sportivecasual_M.jpg,"W_16762_00_metrosexual_M.jpg, W_16766_00_metrosexual_M.jpg, W_24413_70_hippie_M.jpg, W_24939_80_bold_M.jpg",,
+66980,T_09152_10_sportivecasual_M.jpg,"T_00056_10_sportivecasual_M.jpg, T_04233_90_hiphop_M.jpg, T_04603_90_hiphop_M.jpg, T_14283_60_mods_M.jpg, W_06563_70_hippie_M.jpg, W_52548_50_ivy_M.jpg",T_16655_00_metrosexual_M.jpg,
+67030,"T_00062_19_normcore_M.jpg, T_03268_90_hiphop_M.jpg, T_06666_10_sportivecasual_M.jpg","W_02728_60_mods_M.jpg, W_24204_60_mods_M.jpg, W_24859_70_hippie_M.jpg, W_32407_60_mods_M.jpg",T_04759_10_sportivecasual_M.jpg,"W_02728_60_mods_M.jpg, W_32407_60_mods_M.jpg"
+67307,"T_00065_19_normcore_M.jpg, T_04865_60_mods_M.jpg, W_24130_60_mods_M.jpg, W_51577_50_ivy_M.jpg",T_00107_19_normcore_M.jpg,"W_24130_60_mods_M.jpg, W_51577_50_ivy_M.jpg",
+52702,"T_00073_10_sportivecasual_M.jpg, T_00493_19_normcore_M.jpg, T_01520_60_mods_M.jpg, T_02508_19_normcore_M.jpg, W_15287_60_mods_M.jpg","T_16219_10_sportivecasual_M.jpg, W_15623_70_hippie_M.jpg",T_03991_10_sportivecasual_M.jpg,W_52417_00_metrosexual_M.jpg
+67755,"T_00073_10_sportivecasual_M.jpg, T_01474_50_ivy_M.jpg, T_01480_50_ivy_M.jpg, T_18057_19_normcore_M.jpg, T_18058_19_normcore_M.jpg","W_24474_70_hippie_M.jpg, W_40542_90_hiphop_M.jpg",T_00088_10_sportivecasual_M.jpg,
+64249,"T_00076_10_sportivecasual_M.jpg, T_02498_19_normcore_M.jpg",W_54621_80_bold_M.jpg,,
+68309,"T_00076_10_sportivecasual_M.jpg, T_01462_50_ivy_M.jpg, T_01495_50_ivy_M.jpg, T_18066_19_normcore_M.jpg, W_24470_70_hippie_M.jpg","W_16840_00_metrosexual_M.jpg, W_36885_90_hiphop_M.jpg",T_01514_50_ivy_M.jpg,
+67224,"T_00079_19_normcore_M.jpg, T_02927_90_hiphop_M.jpg, T_02979_10_sportivecasual_M.jpg, T_06612_10_sportivecasual_M.jpg, T_16121_10_sportivecasual_M.jpg",T_14938_60_mods_M.jpg,"T_15527_80_bold_M.jpg, W_06895_00_metrosexual_M.jpg, W_12789_00_metrosexual_M.jpg",
+3248,"T_00087_19_normcore_M.jpg, W_02845_60_mods_M.jpg, W_30292_60_mods_M.jpg","T_00486_50_ivy_M.jpg, W_06781_70_hippie_M.jpg, W_25082_70_hippie_M.jpg",W_02845_60_mods_M.jpg,T_04543_90_hiphop_M.jpg
+65980,,"T_00091_10_sportivecasual_M.jpg, T_00545_50_ivy_M.jpg",,
+68279,"T_00091_10_sportivecasual_M.jpg, T_01568_50_ivy_M.jpg",,,
+24429,"T_00093_90_hiphop_M.jpg, T_03623_00_metrosexual_M.jpg",T_04782_00_metrosexual_M.jpg,,
+66139,"T_00093_90_hiphop_M.jpg, T_04541_90_hiphop_M.jpg, W_15287_60_mods_M.jpg",T_04444_00_metrosexual_M.jpg,T_01514_50_ivy_M.jpg,
+67492,"T_00093_90_hiphop_M.jpg, T_15957_60_mods_M.jpg",T_12345_00_metrosexual_M.jpg,,
+66830,"T_00101_19_normcore_M.jpg, T_03663_60_mods_M.jpg, T_04709_10_sportivecasual_M.jpg, T_06629_10_sportivecasual_M.jpg, T_07591_00_metrosexual_M.jpg","T_02728_80_bold_M.jpg, T_03086_19_normcore_M.jpg, T_04571_90_hiphop_M.jpg, T_16312_10_sportivecasual_M.jpg, W_06847_60_mods_M.jpg",,
+51122,"T_00103_10_sportivecasual_M.jpg, T_01566_50_ivy_M.jpg","T_01518_50_ivy_M.jpg, W_24486_70_hippie_M.jpg",T_01566_50_ivy_M.jpg,W_24486_70_hippie_M.jpg
+59673,"T_00103_10_sportivecasual_M.jpg, T_00568_19_normcore_M.jpg, T_02711_19_normcore_M.jpg, W_00901_60_mods_M.jpg",W_32045_50_ivy_M.jpg,,
+67019,"T_03227_90_hiphop_M.jpg, T_16291_10_sportivecasual_M.jpg","T_00105_19_normcore_M.jpg, T_16341_10_sportivecasual_M.jpg",,T_01123_90_hiphop_M.jpg
+66403,"T_06656_10_sportivecasual_M.jpg, W_17305_70_hippie_M.jpg, W_52583_50_ivy_M.jpg","T_00117_19_normcore_M.jpg, W_00517_70_hippie_M.jpg, W_06575_60_mods_M.jpg, W_24525_70_hippie_M.jpg",W_17305_70_hippie_M.jpg,
+61539,"T_00130_50_ivy_M.jpg, T_01105_50_ivy_M.jpg, T_15828_60_mods_M.jpg","W_15800_90_hiphop_M.jpg, W_16423_90_hiphop_M.jpg",,T_17676_70_hippie_M.jpg
+62779,"T_00130_50_ivy_M.jpg, T_00194_90_hiphop_M.jpg, T_06099_80_bold_M.jpg, T_06147_60_mods_M.jpg, T_16025_10_sportivecasual_M.jpg, W_16777_60_mods_M.jpg","T_08410_10_sportivecasual_M.jpg, T_14273_10_sportivecasual_M.jpg, W_04237_60_mods_M.jpg, W_24715_00_metrosexual_M.jpg",,W_04237_60_mods_M.jpg
+66315,"T_15283_60_mods_M.jpg, T_15507_60_mods_M.jpg",T_00130_50_ivy_M.jpg,,
+67521,"T_00130_50_ivy_M.jpg, T_06433_10_sportivecasual_M.jpg, T_06435_10_sportivecasual_M.jpg, W_53241_80_bold_M.jpg",T_02777_90_hiphop_M.jpg,,
+67700,T_00191_50_ivy_M.jpg,"T_00130_50_ivy_M.jpg, W_02769_90_hiphop_M.jpg",T_16655_00_metrosexual_M.jpg,
+68038,"T_00130_50_ivy_M.jpg, T_17939_19_normcore_M.jpg, W_15843_00_metrosexual_M.jpg, W_17303_70_hippie_M.jpg, W_29539_90_hiphop_M.jpg","W_15441_00_metrosexual_M.jpg, W_16219_70_hippie_M.jpg, W_16247_70_hippie_M.jpg",W_15843_00_metrosexual_M.jpg,"W_16219_70_hippie_M.jpg, W_16247_70_hippie_M.jpg"
+67300,"T_04919_60_mods_M.jpg, T_16619_80_bold_M.jpg",T_00152_19_normcore_M.jpg,,
+66935,,"T_00153_19_normcore_M.jpg, T_03227_90_hiphop_M.jpg, W_25380_60_mods_M.jpg, W_52149_70_hippie_M.jpg",,W_11163_60_mods_M.jpg
+66487,"T_00161_19_normcore_M.jpg, T_07613_00_metrosexual_M.jpg",,,
+51343,"T_00162_90_hiphop_M.jpg, T_04741_10_sportivecasual_M.jpg","T_03996_90_hiphop_M.jpg, W_00023_60_mods_M.jpg, W_02846_70_hippie_M.jpg, W_09157_60_mods_M.jpg, W_17526_70_hippie_M.jpg",T_00162_90_hiphop_M.jpg,W_10844_60_mods_M.jpg
+62744,"T_00162_90_hiphop_M.jpg, T_02403_50_ivy_M.jpg, W_30403_60_mods_M.jpg","T_03388_10_sportivecasual_M.jpg, W_02681_60_mods_M.jpg, W_25094_70_hippie_M.jpg","T_00162_90_hiphop_M.jpg, W_30403_60_mods_M.jpg",
+66771,"T_00162_90_hiphop_M.jpg, T_01329_19_normcore_M.jpg, T_03736_90_hiphop_M.jpg, T_15974_10_sportivecasual_M.jpg, W_06533_60_mods_M.jpg",,"T_00162_90_hiphop_M.jpg, W_06533_60_mods_M.jpg",
+67067,"T_00163_19_normcore_M.jpg, T_03125_90_hiphop_M.jpg",T_08763_60_mods_M.jpg,T_08513_60_mods_M.jpg,
+18590,"T_00191_50_ivy_M.jpg, T_10902_60_mods_M.jpg, T_17304_19_normcore_M.jpg, T_18378_70_hippie_M.jpg","T_04842_60_mods_M.jpg, T_14259_60_mods_M.jpg, T_16848_70_hippie_M.jpg, T_16850_70_hippie_M.jpg, W_15124_80_bold_M.jpg, W_15912_90_hiphop_M.jpg",,
+29896,,"T_00191_50_ivy_M.jpg, T_16848_70_hippie_M.jpg, T_16850_70_hippie_M.jpg, W_17535_70_hippie_M.jpg, W_24816_80_bold_M.jpg",T_17650_19_normcore_M.jpg,
+67053,"T_00191_50_ivy_M.jpg, T_01275_60_mods_M.jpg, T_03457_10_sportivecasual_M.jpg, W_24746_60_mods_M.jpg","T_03536_90_hiphop_M.jpg, T_04681_80_bold_M.jpg, T_05948_80_bold_M.jpg, W_04510_00_metrosexual_M.jpg","T_02946_90_hiphop_M.jpg, T_06717_10_sportivecasual_M.jpg",T_02699_19_normcore_M.jpg
+67231,,"T_00191_50_ivy_M.jpg, T_03082_90_hiphop_M.jpg",,
+67483,"T_00191_50_ivy_M.jpg, T_01020_10_sportivecasual_M.jpg, T_01050_10_sportivecasual_M.jpg, T_07870_00_metrosexual_M.jpg, T_15899_60_mods_M.jpg",,,
+67060,"T_04216_10_sportivecasual_M.jpg, T_07640_10_sportivecasual_M.jpg, W_00047_70_hippie_M.jpg","T_00194_90_hiphop_M.jpg, T_03474_10_sportivecasual_M.jpg, T_03796_90_hiphop_M.jpg, T_07628_80_bold_M.jpg, W_25235_60_mods_M.jpg",,"T_04526_90_hiphop_M.jpg, W_25235_60_mods_M.jpg"
+17880,"T_15987_10_sportivecasual_M.jpg, T_16323_10_sportivecasual_M.jpg, W_01526_60_mods_M.jpg, W_15762_70_hippie_M.jpg","T_00217_90_hiphop_M.jpg, T_02684_19_normcore_M.jpg, T_03510_90_hiphop_M.jpg, T_15634_10_sportivecasual_M.jpg",W_15762_70_hippie_M.jpg,W_15684_70_hippie_M.jpg
+66993,"T_00217_90_hiphop_M.jpg, T_03227_90_hiphop_M.jpg, T_06506_10_sportivecasual_M.jpg, T_08715_10_sportivecasual_M.jpg, T_16414_10_sportivecasual_M.jpg, T_16541_10_sportivecasual_M.jpg, W_02744_60_mods_M.jpg","T_04603_90_hiphop_M.jpg, T_16079_10_sportivecasual_M.jpg",,
+18315,,"T_00237_90_hiphop_M.jpg, T_02728_80_bold_M.jpg, T_02770_19_normcore_M.jpg, T_03510_90_hiphop_M.jpg, W_26489_70_hippie_M.jpg, W_27700_70_hippie_M.jpg",,W_27700_70_hippie_M.jpg
+66612,"T_00237_90_hiphop_M.jpg, T_02428_10_sportivecasual_M.jpg, W_09151_60_mods_M.jpg",T_07792_80_bold_M.jpg,,
+66754,"T_00237_90_hiphop_M.jpg, T_16027_10_sportivecasual_M.jpg, W_04279_70_hippie_M.jpg","T_12573_80_bold_M.jpg, W_25520_60_mods_M.jpg",T_03944_90_hiphop_M.jpg,
+47337,"T_00250_00_ecology_W.jpg, T_04643_90_kitsch_W.jpg, T_05652_19_lounge_W.jpg",W_18892_50_classic_W.jpg,T_02863_90_hiphop_W.jpg,
+66752,T_00799_50_classic_W.jpg,"T_00250_00_ecology_W.jpg, T_15697_19_lounge_W.jpg",,
+58049,,"T_00253_60_popart_W.jpg, T_10194_90_grunge_W.jpg",,T_00253_60_popart_W.jpg
+62192,,T_00253_60_popart_W.jpg,,T_00253_60_popart_W.jpg
+64213,T_02293_19_lounge_W.jpg,T_00253_60_popart_W.jpg,,T_00253_60_popart_W.jpg
+66592,"T_00253_60_popart_W.jpg, T_00893_90_hiphop_W.jpg, T_02820_10_sportivecasual_W.jpg, T_04310_19_normcore_W.jpg, T_04656_19_genderless_W.jpg, T_05224_19_normcore_W.jpg, T_05759_19_lounge_W.jpg, T_06320_19_normcore_W.jpg, T_07897_00_cityglam_W.jpg, T_09415_10_sportivecasual_W.jpg, T_09717_19_genderless_W.jpg, W_02343_60_space_W.jpg, W_10028_50_classic_W.jpg, W_22931_70_punk_W.jpg, W_42363_10_sportivecasual_W.jpg, W_43047_70_military_W.jpg, W_44918_60_minimal_W.jpg, W_46907_80_powersuit_W.jpg, W_53113_00_cityglam_W.jpg, W_53133_90_hiphop_W.jpg, W_53583_90_hiphop_W.jpg, W_53861_90_kitsch_W.jpg, W_64079_80_powersuit_W.jpg","T_07452_50_classic_W.jpg, W_02170_50_feminine_W.jpg, W_04029_50_feminine_W.jpg, W_05140_50_feminine_W.jpg, W_07415_50_feminine_W.jpg, W_09539_60_minimal_W.jpg, W_19352_50_feminine_W.jpg, W_19836_50_feminine_W.jpg, W_20883_70_disco_W.jpg, W_34352_10_sportivecasual_W.jpg, W_34436_60_space_W.jpg, W_41924_70_punk_W.jpg, W_43038_70_punk_W.jpg, W_47960_60_popart_W.jpg, W_51690_80_powersuit_W.jpg, W_52731_90_kitsch_W.jpg, W_52969_00_ecology_W.jpg, W_54604_80_powersuit_W.jpg, W_55047_00_oriental_W.jpg, W_55797_00_ecology_W.jpg, W_56627_80_powersuit_W.jpg, W_56834_90_lingerie_W.jpg, W_64036_10_athleisure_W.jpg","T_00253_60_popart_W.jpg, W_10028_50_classic_W.jpg, W_44918_60_minimal_W.jpg, W_46907_80_powersuit_W.jpg","W_02170_50_feminine_W.jpg, W_19352_50_feminine_W.jpg, W_22056_70_hippie_W.jpg, W_34436_60_space_W.jpg, W_35400_80_powersuit_W.jpg"
+66721,W_05960_70_hippie_W.jpg,"T_00253_60_popart_W.jpg, T_09772_19_normcore_W.jpg, T_11200_00_oriental_W.jpg",,T_00253_60_popart_W.jpg
+62585,T_00274_50_classic_W.jpg,"T_05716_19_lounge_W.jpg, T_10056_10_athleisure_W.jpg, W_05052_70_hippie_W.jpg, W_36156_60_space_W.jpg, W_36616_60_minimal_W.jpg",,
+66788,"T_00274_50_classic_W.jpg, T_11143_00_oriental_W.jpg",,,
+66865,,"T_00274_50_classic_W.jpg, T_05240_10_sportivecasual_W.jpg, T_11540_90_lingerie_W.jpg, T_12026_80_bodyconscious_W.jpg",T_10944_00_ecology_W.jpg,
+61958,W_03194_50_classic_W.jpg,T_00299_19_normcore_W.jpg,,
+67313,"T_11080_00_ecology_W.jpg, T_11933_19_normcore_W.jpg","T_00329_19_normcore_W.jpg, T_09314_10_sportivecasual_W.jpg, T_13511_10_sportivecasual_W.jpg",,T_12480_00_ecology_W.jpg
+67446,"T_00332_19_normcore_W.jpg, T_11735_00_ecology_W.jpg",,,
+5315,,"T_00334_10_sportivecasual_W.jpg, T_05502_60_minimal_W.jpg",T_12084_80_bodyconscious_W.jpg,
+23193,"T_00334_10_sportivecasual_W.jpg, T_14542_00_ecology_W.jpg",T_11218_19_normcore_W.jpg,,T_15769_80_bodyconscious_W.jpg
+61598,"T_00334_10_sportivecasual_W.jpg, T_04062_10_sportivecasual_W.jpg, T_13602_90_hiphop_W.jpg",,T_04062_10_sportivecasual_W.jpg,
+65258,"T_00344_19_lounge_W.jpg, W_10429_60_minimal_W.jpg","T_12065_00_cityglam_W.jpg, W_13863_60_minimal_W.jpg",W_10429_60_minimal_W.jpg,
+65152,"T_08913_10_athleisure_W.jpg, T_12128_19_normcore_W.jpg","T_00351_90_kitsch_W.jpg, T_10919_90_kitsch_W.jpg, T_11220_00_oriental_W.jpg, T_12328_80_powersuit_W.jpg, W_05039_70_hippie_W.jpg, W_19311_70_punk_W.jpg",,
+67333,,T_00351_90_kitsch_W.jpg,,
+61234,T_10792_19_genderless_W.jpg,"T_00359_19_normcore_W.jpg, T_10511_90_grunge_W.jpg, T_10722_19_normcore_W.jpg, T_12148_19_lounge_W.jpg, T_12983_90_lingerie_W.jpg, W_21992_60_minimal_W.jpg",,W_21992_60_minimal_W.jpg
+62257,"T_08306_10_sportivecasual_W.jpg, T_09259_60_minimal_W.jpg, T_09639_19_normcore_W.jpg","T_00366_60_minimal_W.jpg, T_01378_00_ecology_W.jpg, W_09905_50_classic_W.jpg, W_18610_50_feminine_W.jpg",,
+65617,"T_00366_60_minimal_W.jpg, W_07605_50_feminine_W.jpg",T_02881_80_bodyconscious_W.jpg,,
+36097,T_01999_10_sportivecasual_W.jpg,"T_00374_60_minimal_W.jpg, W_00570_90_lingerie_W.jpg",,"T_00631_60_minimal_W.jpg, W_42967_80_bodyconscious_W.jpg"
+66693,"T_00374_60_minimal_W.jpg, T_01927_19_normcore_W.jpg, T_14542_00_ecology_W.jpg, W_02043_70_disco_W.jpg",T_13171_90_kitsch_W.jpg,"T_00607_60_minimal_W.jpg, T_12567_80_powersuit_W.jpg",
+23954,,"T_00385_00_ecology_W.jpg, W_19935_50_feminine_W.jpg",,
+26353,,"T_00385_00_ecology_W.jpg, T_09752_19_normcore_W.jpg",,
+51077,"T_07657_00_metrosexual_M.jpg, T_17158_19_normcore_M.jpg, T_19264_70_hippie_M.jpg","T_00399_60_mods_M.jpg, W_12428_90_hiphop_M.jpg, W_16984_90_hiphop_M.jpg, W_52548_50_ivy_M.jpg",T_19264_70_hippie_M.jpg,W_52521_50_ivy_M.jpg
+67117,"T_01275_60_mods_M.jpg, T_03536_90_hiphop_M.jpg","T_00399_60_mods_M.jpg, T_04697_90_hiphop_M.jpg, T_16297_80_bold_M.jpg, W_06567_00_metrosexual_M.jpg, W_15782_70_hippie_M.jpg",,W_02691_60_mods_M.jpg
+23950,"T_17320_19_normcore_M.jpg, W_12685_90_hiphop_M.jpg","T_00400_50_ivy_M.jpg, T_00410_50_ivy_M.jpg, T_00559_00_metrosexual_M.jpg, W_12378_80_bold_M.jpg",T_17322_19_normcore_M.jpg,"T_00400_50_ivy_M.jpg, W_12378_80_bold_M.jpg"
+52635,"T_00400_50_ivy_M.jpg, T_01518_50_ivy_M.jpg, T_02688_19_normcore_M.jpg, T_04919_60_mods_M.jpg, W_00017_60_mods_M.jpg","T_02765_90_hiphop_M.jpg, T_03996_90_hiphop_M.jpg, T_16223_80_bold_M.jpg, W_02696_60_mods_M.jpg, W_09796_60_mods_M.jpg, W_24413_70_hippie_M.jpg",T_00400_50_ivy_M.jpg,
+53069,"T_00400_50_ivy_M.jpg, W_24217_70_hippie_M.jpg, W_31694_90_hiphop_M.jpg","W_16639_00_metrosexual_M.jpg, W_24212_70_hippie_M.jpg, W_24845_80_bold_M.jpg, W_24846_80_bold_M.jpg",T_00400_50_ivy_M.jpg,W_24211_70_hippie_M.jpg
+66591,"T_00400_50_ivy_M.jpg, T_08346_80_bold_M.jpg, W_51060_50_ivy_M.jpg","W_07366_70_hippie_M.jpg, W_27729_70_hippie_M.jpg",T_00400_50_ivy_M.jpg,
+67559,T_06514_10_sportivecasual_M.jpg,"T_00400_50_ivy_M.jpg, T_00496_50_ivy_M.jpg, W_55201_00_metrosexual_M.jpg",,T_00400_50_ivy_M.jpg
+67706,"T_00592_50_ivy_M.jpg, T_16365_10_sportivecasual_M.jpg, T_16430_10_sportivecasual_M.jpg, T_16432_10_sportivecasual_M.jpg, T_16436_10_sportivecasual_M.jpg","T_00400_50_ivy_M.jpg, T_00410_50_ivy_M.jpg, W_02943_90_hiphop_M.jpg",,T_00400_50_ivy_M.jpg
+66451,,"T_00410_50_ivy_M.jpg, W_24084_70_hippie_M.jpg, W_31913_90_hiphop_M.jpg",,W_31913_90_hiphop_M.jpg
+67114,"T_01248_19_normcore_M.jpg, T_16051_60_mods_M.jpg","T_00410_50_ivy_M.jpg, T_03767_90_hiphop_M.jpg, T_15235_00_metrosexual_M.jpg",T_16067_60_mods_M.jpg,
+67139,"T_00410_50_ivy_M.jpg, T_00539_50_ivy_M.jpg, T_00545_50_ivy_M.jpg, T_06570_10_sportivecasual_M.jpg, T_06573_10_sportivecasual_M.jpg, T_06603_10_sportivecasual_M.jpg, T_06610_10_sportivecasual_M.jpg",,,
+67089,,"T_00432_10_sportivecasual_M.jpg, T_03334_19_normcore_M.jpg",,
+68396,"T_00432_10_sportivecasual_M.jpg, T_18080_19_normcore_M.jpg, T_18094_19_normcore_M.jpg, T_18095_19_normcore_M.jpg","T_18093_19_normcore_M.jpg, W_17455_00_metrosexual_M.jpg, W_17460_00_metrosexual_M.jpg, W_24537_70_hippie_M.jpg",,W_24535_70_hippie_M.jpg
+67120,T_05941_10_sportivecasual_M.jpg,"T_00437_19_normcore_M.jpg, T_06457_10_sportivecasual_M.jpg, T_07578_10_sportivecasual_M.jpg, W_00023_60_mods_M.jpg, W_04408_60_mods_M.jpg, W_04526_00_metrosexual_M.jpg, W_09770_60_mods_M.jpg, W_15334_90_hiphop_M.jpg",,
