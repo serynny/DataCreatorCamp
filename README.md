@@ -26,5 +26,5 @@ Mission 3 : 3-1 => 동영 / 3-2 => 중간고사 이후
 ### 3nd meeting (10/25 22:00) (v)  
 장소 : 비대면   
 
-### 3nd mentoring (10/26 10:00)      
+### 3nd mentoring (v)      
 3차 멘토링 진행    
