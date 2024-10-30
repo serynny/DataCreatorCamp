@@ -1,5 +1,9 @@
 ## 모델 불러오기 관련 코드 정리  
 
+최종 제출본에 가중치가 들어가야됨  
+-> 모델 불러와서 가중치만 따로 저장
+-> 가중치와 모델을 드롭박스에 저장  
+
 # 1. 모델 불러오기  
 model = torch.load('/content/drive/MyDrive/kict/model_path.pth')  
 model.eval()  # 평가 모드로 전환  
