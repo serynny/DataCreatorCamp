@@ -1,0 +1,26 @@
+## 모델 불러오기 관련 코드 정리  
+
+# 1. 모델 불러오기  
+model = torch.load('/content/drive/MyDrive/kict/model_path.pth')  
+model.eval()  # 평가 모드로 전환  
+
+# 2. 가중치 저장  
+torch.save(model.state_dict(), '/content/drive/MyDrive/kict/model_weights.pth')  
+
+# 3. 모델 클래스를 정의  
+class MyModel(torch.nn.Module): 
+    def __init__(self):    
+        super(MyModel, self).__init__()  
+        self.fc = torch.nn.Linear(10, 1)  # 예시  
+
+-- 우리 정의한 resnet 클래스 그대로 쓴다는 말 --  
+
+    def forward(self, x):  
+        return self.fc(x)  
+
+# 모델 인스턴스 생성  
+model = MyModel()   
+
+# 4. 가중치 불러오기  
+model.load_state_dict(torch.load('/content/drive/MyDrive/kict/model_weights.pth'))  
+model.eval()  # 평가 모드로 전환  
