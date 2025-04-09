@@ -1,5 +1,4 @@
 # DCC-amaranth  
-하고 싶은 것이 많은 꿈을 꾸는 인공지능 개발자입니다.      
   
 ## Project timeline    
 Lecture  : ~ 10/26(토)  
